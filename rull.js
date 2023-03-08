@@ -36,7 +36,7 @@ let wibh = moment.tz('Asia/Jakarta').format('HH')
 const readMore = more.repeat(4001)
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ MEDIA SOSSIAL ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
-global.sig = 'https://instagram.com/khoirul36_'
+global.sig = 'https://instagram.com/kh6_'
 global.tautanwa = 'https://wa.me/message/'
 global.sgh = 'https://github.com/khrlmstfa' //github
 global.sgc = '' //group whatsapp
@@ -45,21 +45,21 @@ global.syt = 'https://youtube.com/channel/UC1oSMQCd3XKVxYwSh4RE2Nw'
 global.sfb = 'https://www.facebook.com/' // facebook
 global.snh = 'https://chat.whatsapp.com/'
 global.media = 'https://telegra.ph/file/08ae4464dfd3cc051a230.jpg'
-global.wame = 'https://wa.me/message/'
+global.wame = 'https://wa.me/message/447971533162'
 //⫹⫺ ╳╶┈ ⎝ NOOWNER,NOBOT,NAMAOWNER,NAMABOT  ⎞ ┈╾╴╳ ⫹⫺
 global.owner = [
-['62', '𝕽𝖚𝖑𝖑  ꩜', true]
+['447971533162', 'Div ꩜', true]
 ]
 global.mods = []
 global.prems = fs.readFileSync('./rul-settings/premium.json')
-global.nomorbot = '' //pasang no bot lo 
-global.nomorown = '' //pasang no own lo
-global.nomorown1 = ''
-global.nomorown2 = ''
+global.nomorbot = '6285608468994' //pasang no bot lo 
+global.nomorown = '447971533162' //pasang no own lo
+global.nomorown1 = '447971533162'
+global.nomorown2 = '447971533162'
 global.nomorwa = '0'
-global.nameown = '𝕽𝖚𝖑𝖑'
+global.nameown = 'Divx'
 global.gcname = '𝗟𝗲𝗴𝗮𝗰𝘆 𝗢𝗳𝗳𝗶𝗰𝗶𝗮𝗹'
-global.author = 'Dibuat Oleh 𝕽𝖚𝖑𝖑'
+global.author = 'Dibuat OlehDivx'
 global.namebot = '𝗟𝗲𝗴𝗮𝗰𝘆 -𝗠𝗗'
 global.packname2 = '𝗟𝗲𝗴𝗮𝗰𝘆 -𝗠𝗗 ꩜'
 
@@ -132,7 +132,7 @@ global.pdana = '' //pasang no lo sinih buat donasi
 global.povo = '-' 
 global.pgopay = '-'
 global.plinkaja = '-' //link aja
-global.ppulsa = ''
+global.ppulsa = '085608468994'
 global.ppulsa2 = ''
 global.psaweria = '-'
 
